@@ -1,0 +1,14 @@
+6) Date time scheduler enable only 8am to 8pm
+11) Forgot Password for Staff and Admin and Hotel.
+1) SRS
+2) If single request mail should go to staff. If staff approves then the hall booking mail should send to admin. If staff rejects change request then the mail should go to requested staff member.
+3) If Admin reject hall booking change request then the mail should goto staff.
+4) Food Order mail should send to admin first, if admin accepts then it should send to the hotel.
+5) Hotel should have Reject option for Bookings.
+7) staff change request should not allow for their own booking schedule.
+10) change request onclick hallbooking from time and to time issue.
+8) in admin Hall Booking report buttons should disable for past dates.
+9) Publish photos,videos and description after the event.
+
+- Booking optin not  working in Day viewer
+
